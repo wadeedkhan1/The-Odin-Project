@@ -15,6 +15,5 @@ Throughout the project, I will demonstrate proficiency in various aspects of web
 - **Responsive Design:** Implementing responsive design principles to ensure the landing page adapts gracefully to different screen sizes and devices.
 - **Version Control (Git):** Utilizing Git for version control, including commits and branching, to effectively manage project iterations and collaborate with others.
   
-## Self-Reflection (Post-Completion):
-coming soon
+
 
